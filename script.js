@@ -87,7 +87,9 @@ function fadeOut(){
 }
 
 window.onload = fadeOut;
-
+if(true){
+  console.log("WOrking fine...");
+}
 
 console.log("I am just checking whether this is working or not.......");
 console.log("This is mytestingBranch...");
