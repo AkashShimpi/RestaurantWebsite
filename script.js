@@ -87,3 +87,6 @@ function fadeOut(){
 }
 
 window.onload = fadeOut;
+
+
+console.log("I am just checking whether this is working or not.......");
